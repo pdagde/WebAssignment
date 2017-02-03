@@ -1,0 +1,34 @@
+create new server
+   1) npm init
+           testcommand-> startup point
+	   createed package.json file
+	   edit it
+	   {
+	      "dependencies": {
+	      "body-parser": "~1.4.2",
+	      "express": "~4.5.1",
+	      "fs": "0.0.2",
+	      "method-override": "~2.0.2",
+	      "mongoose": "~3.8.0",
+	      "morgan": "^1.7.0",
+	      "path": "^0.12.7",
+	      "rhtml": "~1.0.0",
+	      "require": "~2.4.20",
+	      "lodash": "~4.16.2"
+	      }
+         }
+	 
+ 2)   pest last line
+       then npm install
+
+3 ) git init
+     create repository on githunb
+     git remote add origin https://github.com/pdagde/WebAssignment.git
+4) (check -> git remote -v)
+        {  origin https://github.com/pdagde/WebAssignment.git (fetch)
+         origin https://github.com/pdagde/WebAssignment.git (push)
+        }
+
+5)  git is push on the basis of diff command on diffrent 2 file
+
+6)   git add package.json
